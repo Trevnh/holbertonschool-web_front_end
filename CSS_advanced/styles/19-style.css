@@ -190,7 +190,7 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.footer copyright {
+.footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
