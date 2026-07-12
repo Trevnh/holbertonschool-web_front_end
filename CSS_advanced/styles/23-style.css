@@ -203,14 +203,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.socal-link {
-    display: block;
-}
-
-.social-link > svg {
-    fill: var(--text-color);
-}
-
 .footer-address {
     color: var(--text-color);
 }
@@ -223,6 +215,14 @@ h6 {
 
 .footer ul {
     text-align: right;
+}
+
+.socal-link {
+    display: block;
+}
+
+.social-link > svg {
+    fill: var(--text-color);
 }
 
 .footer {
