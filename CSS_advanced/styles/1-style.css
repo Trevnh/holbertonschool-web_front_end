@@ -1,0 +1,5 @@
+/* Fluid Scrolling on HTML element */
+
+html {
+    scroll-behavior: smooth;
+}
